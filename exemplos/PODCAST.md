@@ -1,20 +1,42 @@
-# Podcast: Descobrindo IAs Generativas em 5 Minutos 🎙️
+<p align="center">
+<img 
+    src="https://github.com/Vine013/Podcast_geradoIA/blob/main/PODCAST_DIO/IMGS/capaEp1.jpg"
+    width="200"
+/>
+</p>
 
-## 📒 Descrição
-Este podcast de 5 minutos oferece um passeio rápido, mas profundo, pelo mundo das IAs Generativas e sua influência na tecnologia moderna.
+<div align="center">
+  <a href="https://www.notion.so/Podcast-Gerado-po-IA-s-8b48585f86374ac8a590eaa911e5f062?pvs=4"> Preview do Podcast </a>
+</div>
 
-## 🤖 Tecnologias Utilizadas
-- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
-- IA Generativa **[ElevenLabs](https://www.elevenlabs.io)** para clonagem e sintetização de voz;
-- Software **[Descript](https://www.descript.com)** para edição e montagem do podcast.
+# Projeto Podcast Gerado por I.A.s
 
-## 🧐 Processo de Criação
-"ChatGPT" foi utilizado para desenvolver o roteiro e aprimorar a narrativa do podcast. "ElevenLabs" ajudou a criar uma voz sintética envolvente para a narração, enquanto o "Descript" foi essencial para a edição final, garantindo um fluxo suave e profissional.
 
-## 🚀 Resultados
-O episódio é uma introdução acessível e estimulante ao campo das IAs Generativas, ideal para quem busca uma compreensão rápida do assunto.
+ > ℹ️ **NOTE:** Este repositório foi desenvolvido por mim durante um desafio do Bootcamp do Santander em parceria com a [DIO](https://dio.me)
 
-[LINK PARA O PODCAST AQUI]()
+Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
-## 💭 Reflexão
-O projeto destacou a versatilidade das IAs Generativas na criação de conteúdo auditivo, abrindo novos caminhos para a produção de mídia digital.
+## ❤️ Projeto
+| Ação | Ideia Gerada |
+|-------|-------------|
+| Título | Guardiões da Web - Protegendo a Interface Universal |
+| Tema | Podcast de tecnologia focado em Front End |
+
+## 💻 Tecnologias utilizadas no projeto
+
+- [ChatGPT](https://chat.openai.com/) 
+- [MidJourney](https://www.midjourney.com/app/)
+- [ElevenLabs](https://beta.elevenlabs.io/)
+- [Capcut](https://www.capcut.com/pt-br/)
+
+## ✨ Como foi feito ?
+
+- Roteiro gerado via chatgpt
+- Audio gerado pela elevenLabs
+- Midjourney Para gerar capas
+- Capcut para tratar aúdio e adicionar sons de fundo
+
+## 📚 Projeto Concluido
+Acesse o projeto do Podcast:
+- [Notion]([https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4](https://www.notion.so/Podcast-Gerado-po-IA-s-8b48585f86374ac8a590eaa911e5f062))
+
